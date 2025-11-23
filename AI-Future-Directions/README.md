@@ -1,5 +1,5 @@
 # AI-Future-Directions
-**Theme:** Pioneering Tomorrow’s AI Innovations 🌐🚀
+**Theme:** Pioneering Tomorrow’s AI Innovations
 
 This repository contains a complete submission for the *AI Future Directions* assignment:
 - Theoretical essays.
@@ -33,16 +33,9 @@ AI-Future-Directions/
     └── AI-Future-Directions.zip
 ```
 
-## How to use
-1. Unzip the package.
-2. Check `Part2_EdgeAI/README` and `dataset_instructions.md` for dataset suggestions and how to train locally or in Colab.
-3. `train_model.py` is a minimal TensorFlow training script (for CPU/Colab).
-4. `convert_to_tflite.py` converts the saved Keras model to TFLite.
-5. `tflite_inference.py` shows how to run inference with the TFLite model.
-6. Use the `Part2_IoT_Agri` folder for the smart agriculture design and diagram.
 
-## Notes
+
+Notes
 - Placeholder model files are intentionally small placeholders; replace with real `.h5` and `.tflite` after training.
 - Notebooks are minimal and runnable in Google Colab or locally with `pip install -r requirements` (use TensorFlow 2.x).
 
-Good luck — if you want, I can push this to a GitHub repo for you or create a detailed PDF report next.
